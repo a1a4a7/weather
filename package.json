@@ -4,7 +4,7 @@
   "description": "",
   "main": "07-Web.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node src/07-Web.js"
   },
   "keywords": [],
   "author": "",
